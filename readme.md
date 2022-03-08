@@ -3,7 +3,9 @@ La presente práctica va a tratar de la trabajo en equipo.
 
 ### Enunciado 
 Se quiere realizar una aplicación web Gestión de versiones en sistemas Linux basada en Servlets de JAVA. <br/>
+
 ![Grafico](./img/img_readme1.png)
+
 <br/>
 La arquitectura de la aplicación consistirá en una página HTML inicial y principal, con alguna imagen representativa y un menú. Dicho menú contendrá enlaces a otras páginas HTML. En cada una de estas páginas HTML aparecerá un Formulario con uno o varios campos de texto, un enlace/botón para volver a la pantalla principal y un botón para enviar los datos a un Servlet que procesará los datos recogidos del formulario usando el método POST y devolviendo el resultado para mostrarlo en pantalla. Esta otra nueva página web, junto al resultado mostrado, debe tener un enlace/botón para volver a la pantalla principal. 
 Todas las páginas web compartirán un único fichero CSS de estilos, para mantener una estética homogénea. 
@@ -26,7 +28,9 @@ Indicamos a continuación una manera de cómo trabajar en un proyecto en equipo:
 <ol>Contribuir con nuestro trabajo.</ol>
 </li>
 <br/>
+
 ![Como contribuir](./img/img_readme2.png)
+
 <br/>
 ### Documentación
 Se pide documentar y justificar todos los pasos dados para la realización de todo lo indicado, así como posibles problemas, pegas, etc. que os hayáis encontrado. El documento en cuestión debe presentar una portada, listado de integrantes detallando su trabajo, un índice, y como contenido, la creación y la puesta en marcha del proyecto, programas instalados, reuniones celebradas, mecanismos de organización y coordinación seguidos, código de cada fichero HTML y los Servlets, separados por cada integrante del equipo, pantallazos de trabajo en Git y GitHub, pantallazos de pruebas, eventualidades y problemas acaecidos y las soluciones aportadas. Cada trozo de código incluido en la documentación debe venir perfectamente identificado el autor o autora. En caso de que alguien colabore en el proyecto, pero su nombre no aparezca en la primera sección donde aparecen todos o su nombre no aparezca en su código, no será evaluado. Un código sin nombre, es un código huérfano. No olvidad incluir en la documentación la ubicación en GitHub de proyecto. 
