@@ -5,11 +5,11 @@
 Cada participante del proyecto tendrá que crear un solo archivo .jsp, llamado tal que "nombreProyecto_nombreUsuarioGitHub", por ejemplo el mio sería "Multiplicar_antoniorg1608.jsp". Tambien teneis que crear al menos un Servlet con el mismo nombre que el JSP, "Multiplicar_antoniorg1608.java".
 
 ### MOLDE .JSP
-Copiar el archivo "molde.jsp", el cual lo encontrarás junto con los demás archivos ".jsp" en la carpeta "\webapp", y hacer tu propio archivo jsp a partir de él. Solo teneis que añadir dentro del formulario los inputs y cambiar el atributo "action" con el nombre de tu servlet
+Copiar el archivo "molde.jsp", el cual lo encontrarás junto con los demás archivos ".jsp" en la carpeta "\webapp", y hacer tu propio archivo jsp a partir de él. Solo teneis que añadir dentro del formulario los inputs y cambiar el atributo "action" con el nombre de tu servlet.__
 
-## PRÁCTICA 
+## ENUNCIADO PRÁCTICA 
 ### Introducción 
-La presente práctica va a tratar de la trabajo en equipo. 
+La presente práctica va a tratar de la trabajo en equipo.
 
 ### Enunciado 
 Se quiere realizar una aplicación web Gestión de versiones en sistemas Linux basada en Servlets de JAVA. <br/>
