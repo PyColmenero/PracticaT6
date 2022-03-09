@@ -1,6 +1,6 @@
 
 
-#### PRÁCTICA 
+## PRÁCTICA 
 ### Introducción 
 La presente práctica va a tratar de la trabajo en equipo. 
 
