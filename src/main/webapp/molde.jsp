@@ -16,7 +16,7 @@
         <!-- Hay que cambiar el <title> en el <head> -->
         <!-- Hay que cambiar el interior del <h1> por el nombre de tu proyecto -->
         <!-- Hay que cambiar la descripción -->
-
+		<!-- Hay que cambiar el <h2> por tu nombre -->
 
 
         <div class="container my-5">
@@ -25,7 +25,9 @@
                     <main class="bg-light py-3 px-4 border rounded">
 
                         <h1>TÍTULO del proyecto...</h1>
+                        <h2 class="author">Alejandro Colmenero Morneo</h2>
                         <p id="descripcion">Aquí hay que poner una explicación de tu proyecto..</p>
+
 
                         <form action="" method="post">
 
