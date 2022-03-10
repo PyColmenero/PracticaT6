@@ -48,6 +48,11 @@
 						<td><a href="./SumarPorcentaje_AlvCarballo.jsp">Sumar porcentaje</a></td>
 						<td>AlvCarballo</td>
 					</tr>
+					<tr>
+						<td>1</td>
+						<td><a href="./EspacioEntreCaracteres_Dybeuh.jsp">Colocar espacios entre caracteres</a></td>
+						<td>Dybeuh</td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
