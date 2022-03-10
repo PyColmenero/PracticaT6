@@ -17,19 +17,13 @@
 </head>
 
 <body>
-
-	<!-- Hay que cambiar el <title> en el <head> -->
-	<!-- Hay que cambiar el interior del <h1> por el nombre de tu proyecto -->
-	<!-- Hay que cambiar la descripción -->
-
-
-
 	<div class="container my-5">
 		<div class="row">
 			<div class="col-12 col-md-8 col-lg-6 mx-auto">
 				<main class="bg-light py-3 px-4 border rounded">
 
 					<h1>Sumar Porcentaje</h1>
+					 <h2 class="author fs-5 border-bottom d-inline">Álvaro Octavio Carballo Failde</h2>
 					<p id="descripcion">Introduce un número y el porcentaje y
 						devolveremos el número con el porcentaje sumado</p>
 
@@ -55,7 +49,7 @@
 						</div>
 
 						<div class="d-flex justify-content-between">
-							<input class="botonenviar" type="submit" value="Calcular" />
+						<input class="botonenviar" type="submit" value="Calcular" />
 							<a href="./index_pycolmenero.jsp" class="botoncancelar">VOLVER</a>
 						</div>
 
