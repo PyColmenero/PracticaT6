@@ -18,7 +18,7 @@
 
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 		<div class="container">
-			<h1 class="navbar-brand" href="#">PR¡CTICA T6</h1>
+			<h1 class="navbar-brand" href="#">PR√ÅCTICA T6</h1>
 		</div>
 	</nav>
 
@@ -33,7 +33,7 @@
 	
 		<div class="col-12 col-md-10 col-md-8 mx-auto"> 
 			<h2>Lista de Proyectos</h2>
-		 	<p>Todos las proyectos de los compaÒeros indexados en esta tabla.</p>
+		 	<p>Todos las proyectos de los compa√±eros indexados en esta tabla.</p>
 			<table class="table table-striped">
 				<thead>
 					<tr>
@@ -50,6 +50,11 @@
 					</tr>
 					<tr>
 						<td>1</td>
+						<td><a href="./Mayusculas_FJvb85.jsp">May√∫sculas</a></td>
+						<td>FJvb85</td>
+					</tr>
+					<tr>
+						<td>2</td>
 						<td><a href="./EspacioEntreCaracteres_Dybeuh.jsp">Colocar espacios entre caracteres</a></td>
 						<td>Dybeuh</td>
 					</tr>
