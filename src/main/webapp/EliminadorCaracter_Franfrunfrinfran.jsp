@@ -8,7 +8,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Eliminador de carácteres</title>
 <link
-	href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"	integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"	crossorigin="anonymous">
+	href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+	rel="stylesheet"
+	integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+	crossorigin="anonymous">
+<link rel="stylesheet" href="./styles.css">
 </head>
 <body>
 	<div class="container my-5">
@@ -17,6 +21,7 @@
 				<main class="bg-light py-3 px-4 border rounded">
 
 					<h1 class="text-center my-4">Eliminador de carácteres</h1>
+					<h2 class="author fs-5 border-bottom d-inline">Fco. Javier Rodríguez Rufo</h2>
 					<form method="POST" action="EliminadorCaracter_Franfrunfrinfran">
 						<div id="inputs" class="mb-4">
 							<label>Texto</label> 
