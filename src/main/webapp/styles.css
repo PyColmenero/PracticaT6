@@ -1,3 +1,27 @@
+input {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    margin-bottom: 1rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    -webkit-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    -moz-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    -ms-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    -o-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+
 .botoncancelar,
 .botonenviar {
     display: inline-block;
@@ -21,12 +45,16 @@
     -ms-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
     -o-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    width:auto !important;
+    margin-bottom:0 !important;
+    border-radius:0!important;
 }
 
 .botoncancelar {
     color: #fff;
     background-color: #ff4949;
     border-color: #ff4949;
+    
 }
 
 .botonenviar {
@@ -47,28 +75,7 @@
     border-color: #037e44;
 }
 
-input {
-    display: block;
-    width: 100%;
-    padding: .375rem .75rem;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #212529;
-    background-color: #fff;
-    background-clip: padding-box;
-    border: 1px solid #ced4da;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    border-radius: .25rem;
-    margin-bottom: 1rem;
-    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    -webkit-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    -moz-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    -ms-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    -o-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-}
+
 
 #descripcion {
     margin-bottom: 2rem;
