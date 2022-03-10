@@ -25,7 +25,7 @@
                     <main class="bg-light py-3 px-4 border rounded">
 
                         <h1>TÍTULO del proyecto...</h1>
-                        <h2 class="author">Alejandro Colmenero Morneo</h2>
+                        <h2 class="author fs-5 border-bottom d-inline">Alejandro Colmenero Moreno</h2>
                         <p id="descripcion">Aquí hay que poner una explicación de tu proyecto..</p>
 
 
