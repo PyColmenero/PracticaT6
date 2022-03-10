@@ -20,8 +20,9 @@
 			<div class="col-12 col-md-8 col-lg-6 mx-auto">
 				<main class="bg-light py-3 px-4 border rounded">
 
-					<h1 class="text-center my-4">Eliminador de carácteres</h1>
+					<h1>Eliminador de carácteres</h1>
 					<h2 class="author fs-5 border-bottom d-inline">Fco. Javier Rodríguez Rufo</h2>
+					<p id="descripcion">Eliminación de un carácter dado por el usuario sobre un texto escrito.</p>
 					<form method="POST" action="EliminadorCaracter_Franfrunfrinfran">
 						<div id="inputs" class="mb-4">
 							<label>Texto</label> 
@@ -30,8 +31,7 @@
 							<label>Selecciona un cáracter</label>
 								<input class="form-control" type="text" id="caracter"
 								name="caracter" placeholder="Escriba un carácter del texto" /> 
-						</div>
-						<div class="my-3">
+						
 							<%
 								if (request.getAttribute("resultado_texto") != null) { // si hay mensaje
 									out.println(request.getAttribute("resultado_texto")); // lo muestro
@@ -43,7 +43,7 @@
 						</div>
 						</br>
 						<div class="d-flex justify-content-between">
-							<input class="btn btn-success" type="submit" value="Aceptar" />
+							<input class="botonenviar" type="submit" value="Aceptar" />
 							<a href="./index_pycolmenero.jsp" class="botoncancelar">VOLVER</a>
 						</div>
 					</form>
