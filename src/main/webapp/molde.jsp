@@ -38,7 +38,7 @@
 
                             <div class="d-flex justify-content-between">
                                 <button class="botonenviar">ENVIAR</button>
-                                <a href="./index_pycolmenero.jsp" class="botoncancelar">VOLVER</a>
+                                <a href="./" class="botoncancelar">VOLVER</a>
                             </div>
 
                         </form>
