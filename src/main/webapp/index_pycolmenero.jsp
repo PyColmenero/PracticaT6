@@ -44,19 +44,29 @@
 					</thead>
 					<tbody>
 						<tr>
-							<td>0</td>
+							<td>1</td>
 							<td><a href="./SumarPorcentaje_AlvCarballo.jsp">Sumar porcentaje</a></td>
 							<td>AlvCarballo</td>
 						</tr>
 						<tr>
-							<td>1</td>
+							<td>2</td>
 							<td><a href="./Mayusculas_FJvb85.jsp">Mayúsculas</a></td>
 							<td>FJvb85</td>
 						</tr>
 						<tr>
-							<td>2</td>
+							<td>3</td>
 							<td><a href="./EspacioEntreCaracteres_Dybeuh.jsp">Colocar espacios entre caracteres</a></td>
 							<td>Dybeuh</td>
+						</tr>
+						<tr>
+							<td>4</td>
+							<td><a href="./Calculadora_infantecruzalejandro.jsp">Calculadora</a></td>
+							<td>infantecruzalejandro</td>
+						</tr>
+						<tr>
+							<td>5</td>
+							<td><a href="./EliminadorCaracter_Franfrunfrinfran.jsp">Eliminador de carácteres</a></td>
+							<td>Franfrunfrinfran.jsp</td>
 						</tr>
 					</tbody>
 				</table>
