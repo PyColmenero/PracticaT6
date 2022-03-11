@@ -13,6 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 
 @WebServlet("/Calculadora_infantecruzalejandro")
 public class Calculadora_infantecruzalejandro extends HttpServlet {
+	
 	private static final long serialVersionUID = 1L;
 
 	ServletContext servletContext = null;
@@ -69,7 +70,6 @@ public class Calculadora_infantecruzalejandro extends HttpServlet {
 			{
 				respuesta=Integer.toString(num1 * num2);
 				request.setAttribute("alertaOK", "Multiplicación realizada con éxito");
-
 			} 
 			
 			else if (request.getParameter("resta") != null) {
