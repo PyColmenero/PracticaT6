@@ -66,7 +66,7 @@
 						<tr>
 							<td>5</td>
 							<td><a href="./EliminadorCaracter_Franfrunfrinfran.jsp">Eliminador de carácteres</a></td>
-							<td>Franfrunfrinfran.jsp</td>
+							<td>Franfrunfrinfran</td>
 						</tr>
 					</tbody>
 				</table>
