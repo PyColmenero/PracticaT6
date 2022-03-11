@@ -18,7 +18,7 @@
 	
 		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 			<div class="container">
-				<h1 class="navbar-brand" href="#">PRÁCTICA T6</h1>
+				<h1 class="navbar-brand" href="#">PRÁCTICA T6</h1>
 			</div>
 		</nav>
 	
