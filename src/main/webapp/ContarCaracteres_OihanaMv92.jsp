@@ -13,10 +13,6 @@
 
     <body>
 
-        <!-- Hay que cambiar el <title> en el <head> -->
-        <!-- Hay que cambiar el interior del <h1> por el nombre de tu proyecto -->
-        <!-- Hay que cambiar la descripción -->
-		<!-- Hay que cambiar el <h2> por tu nombre -->
 
 
         <div class="container my-5">
@@ -35,7 +31,7 @@
                                 <!-- Aquí los inputs... -->
                                 <label>Introduzca la cadena:</label>
 								<input name="cadena" type="text">
-                            </div>
+                            </div>                 
                             
                             <p> La cadena tiene 
                             <%

@@ -42,10 +42,7 @@ public class ContarCaracteres_OihanaMv92 extends HttpServlet {
 		
 		String cadena = (String) request.getParameter("cadena"); // String, int, boolean, Object
 		
-		request.setAttribute("cadena", cadena.length());
-		
-		
-		
+		request.setAttribute("cadena", cadena.length());		
 		
 		ServletContext servletContext = getServletContext();
 		RequestDispatcher requestDispatcher = servletContext.getRequestDispatcher("/ContarCaracteres_OihanaMv92.jsp"); 
