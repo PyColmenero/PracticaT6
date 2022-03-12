@@ -95,7 +95,7 @@
                            		<!-- Aquí los inputs... -->
                            		<div class="mb-3">
    									<label for="num1" class="form-label">Primer número:</label>
-    								<input type="number" class="form-control" id="num1" step="0.01" name="num1" placeholder="Introduce un número entero" autofocus />
+    								<input type="number" class="form-control" id="num1" name="num1" placeholder="Introduce un número entero" autofocus />
  								</div>
                            		<div class="mb-3">
    									<label for="num2" class="form-label">Segundo número:</label>
