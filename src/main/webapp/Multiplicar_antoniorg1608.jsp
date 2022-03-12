@@ -25,7 +25,7 @@
                     <main class="bg-light py-3 px-4 border rounded">
 
                         <h1>Multiplicar</h1>
-                        <h2 class="author fs-5 border-bottom d-inline">Antonio</h2>
+                        <h2 class="author fs-5 border-bottom d-inline">Antonio Rodríguez García</h2>
                         <p id="descripcion">Mi práctica, hace la multiplicación de 2 números.</p>
  
 
