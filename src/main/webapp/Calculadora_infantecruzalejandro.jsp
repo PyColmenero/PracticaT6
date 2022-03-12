@@ -106,13 +106,13 @@
 					<%
 						if (request.getAttribute("respuesta") != null) {
 					%>
-							<div id="respuesta" class="my-5">
-								<hr/>
-								<fieldset disabled class="mt-4">
-									<label for="resultado" class="form-label">Resultado:</label>
-									<input type="text" class="form-control" id="resultado" name="resultado" disabled value='<% out.println(request.getAttribute("respuesta")); %>'/>
-								</fieldset>
-							</div>
+						<div id="respuesta" class="my-5">
+							<hr/>
+							<fieldset disabled class="mt-4">
+								<label for="resultado" class="form-label">Resultado:</label>
+								<input type="text" class="form-control" id="resultado" name="resultado" disabled value='<% out.println(request.getAttribute("respuesta")); %>'/>
+							</fieldset>
+						</div>
 					<%
 					}
 					%>
