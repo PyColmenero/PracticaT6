@@ -26,8 +26,8 @@
 
                         <h1>Multiplicar</h1>
                         <h2 class="author fs-5 border-bottom d-inline">Antonio</h2>
-                        <p id="descripcion">...</p>
-
+                        <p id="descripcion">Mi práctica, hace la multiplicación de 2 números.</p>
+ 
 
                         <form action="Multiplicar_antoniorg1608" method="post">
 
