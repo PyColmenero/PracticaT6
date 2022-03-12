@@ -39,11 +39,13 @@
 								
                             </div>
 
+							<p>
 							<%
 							if(request.getAttribute("resultado_multiplicar")!=null){ // si hay mensaje
 								out.println(request.getAttribute("resultado_multiplicar"));	 // lo muestro
 							}
 							%>
+							</p>
 
                             <div class="d-flex justify-content-between">
                                 <button class="botonenviar">ENVIAR</button>
