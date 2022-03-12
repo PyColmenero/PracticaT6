@@ -45,28 +45,43 @@
 					<tbody>
 						<tr>
 							<td>1</td>
-							<td><a href="./SumarPorcentaje_AlvCarballo.jsp">Sumar porcentaje</a></td>
+							<td><a href="./SumarPorcentaje_AlvCarballo.jsp">Sumar porcentaje.</a></td>
 							<td>AlvCarballo</td>
 						</tr>
 						<tr>
 							<td>2</td>
-							<td><a href="./Mayusculas_FJvb85.jsp">Mayúsculas</a></td>
+							<td><a href="./Mayusculas_FJvb85.jsp">Mayúsculas.</a></td>
 							<td>FJvb85</td>
 						</tr>
 						<tr>
 							<td>3</td>
-							<td><a href="./EspacioEntreCaracteres_Dybeuh.jsp">Colocar espacios entre caracteres</a></td>
+							<td><a href="./EspacioEntreCaracteres_Dybeuh.jsp">Colocar espacios entre caracteres.</a></td>
 							<td>Dybeuh</td>
 						</tr>
 						<tr>
 							<td>4</td>
-							<td><a href="./Calculadora_infantecruzalejandro.jsp">Calculadora</a></td>
+							<td><a href="./Calculadora_infantecruzalejandro.jsp">Calculadora.</a></td>
 							<td>infantecruzalejandro</td>
 						</tr>
 						<tr>
 							<td>5</td>
-							<td><a href="./EliminadorCaracter_Franfrunfrinfran.jsp">Eliminador de carácteres</a></td>
+							<td><a href="./EliminadorCaracter_Franfrunfrinfran.jsp">Eliminador de carácteres.</a></td>
 							<td>Franfrunfrinfran</td>
+						</tr>
+						<tr>
+							<td>6</td>
+							<td><a href="./ContarCaracteres_OihanaMv92.jsp">Contador de carácteres.</a></td>
+							<td>@OihanaMv92</td>
+						</tr>
+						<tr>
+							<td>7</td>
+							<td><a href="./ContarVocales_sarafersanz.jsp">Contar las vocales.</a></td>
+							<td>@sarafersanz</td>
+						</tr>
+						<tr>
+							<td>8</td>
+							<td><a href="./Multiplicar_antoniorg1608.jsp">Multiplicar.</a></td>
+							<td>@antoniorg1608</td>
 						</tr>
 					</tbody>
 				</table>
