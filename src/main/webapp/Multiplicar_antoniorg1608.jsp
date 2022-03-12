@@ -29,7 +29,7 @@
                         <p id="descripcion">Mi práctica, hace la multiplicación de 2 números.</p>
  
 
-                        <form action="Multiplicar_antoniorg1608" method="post">
+                        <form action="Multiplicar" method="post">
 
                             <div id="inputs" class="mb-4">
                                 <!-- Aquí los inputs... -->
