@@ -88,6 +88,11 @@
 							<td><a href="./InvertirUpperLower_kvdos.jsp">Invertir UpperLower.</a></td>
 							<td>@kvdos</td>
 						</tr>
+						<tr>
+							<td>10</td>
+							<td><a href="./CompararCadenas_AndresPedrosa.jsp">Comparar dos cadenas.</a></td>
+							<td>@AndresPedrosa</td>
+						</tr>
 					</tbody>
 				</table>
 			</div>
