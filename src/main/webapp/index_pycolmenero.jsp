@@ -46,27 +46,27 @@
 						<tr>
 							<td>1</td>
 							<td><a href="./SumarPorcentaje_AlvCarballo.jsp">Sumar porcentaje.</a></td>
-							<td>AlvCarballo</td>
+							<td>@AlvCarballo</td>
 						</tr>
 						<tr>
 							<td>2</td>
 							<td><a href="./Mayusculas_FJvb85.jsp">Mayúsculas.</a></td>
-							<td>FJvb85</td>
+							<td>@FJvb85</td>
 						</tr>
 						<tr>
 							<td>3</td>
 							<td><a href="./EspacioEntreCaracteres_Dybeuh.jsp">Colocar espacios entre caracteres.</a></td>
-							<td>Dybeuh</td>
+							<td>@Dybeuh</td>
 						</tr>
 						<tr>
 							<td>4</td>
 							<td><a href="./Calculadora_infantecruzalejandro.jsp">Calculadora.</a></td>
-							<td>infantecruzalejandro</td>
+							<td>@infantecruzalejandro</td>
 						</tr>
 						<tr>
 							<td>5</td>
 							<td><a href="./EliminadorCaracter_Franfrunfrinfran.jsp">Eliminador de carácteres.</a></td>
-							<td>Franfrunfrinfran</td>
+							<td>@Franfrunfrinfran</td>
 						</tr>
 						<tr>
 							<td>6</td>
@@ -82,6 +82,11 @@
 							<td>8</td>
 							<td><a href="./Multiplicar_antoniorg1608.jsp">Multiplicar.</a></td>
 							<td>@antoniorg1608</td>
+						</tr>
+						<tr>
+							<td>9</td>
+							<td><a href="./InvertirUpperLower_kvdos.jsp">Invertir UpperLower.</a></td>
+							<td>@kvdos</td>
 						</tr>
 					</tbody>
 				</table>
