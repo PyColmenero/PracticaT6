@@ -93,6 +93,11 @@
 							<td><a href="./CompararCadenas_AndresPedrosa.jsp">Comparar dos cadenas.</a></td>
 							<td>@AndresPedrosa</td>
 						</tr>
+						<tr>
+							<td>11</td>
+							<td><a href="./toLowerCase_alivazgom.jsp">Minúsculas.</a></td>
+							<td>@alivazgom</td>
+						</tr>
 					</tbody>
 				</table>
 			</div>
