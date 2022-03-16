@@ -6,6 +6,8 @@ Cada participante del proyecto tendrá que crear un solo archivo .jsp, llamado t
 
 ### MOLDE .JSP
 Copiar el archivo "molde.jsp", el cual lo encontrarás junto con los demás archivos ".jsp" en la carpeta "\webapp". Modificar dicha copia poniendo el nombre tal que "nombreProyecto_nombreUsuarioGitHub". Solo teneis que añadir dentro del formulario el/los input/s y cambiar el atributo "action" del formulario con el nombre de tu servlet.
+De todos modos si os quereis salir un poco de la plantilla, teneis que saber que los botones de ACEPTAR tienen siempre la clase "botonenviar" y los botones de CANCELAR llevarán la clase "botonenviar". Los inputs no llevarán ninguna clase. El h1 tampoco llevará ninguna otra clase.
+
 <br/><br/>
 ## ENUNCIADO PRÁCTICA 
 ### Introducción 

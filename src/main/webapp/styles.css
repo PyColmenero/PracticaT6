@@ -1,51 +1,5 @@
-.botoncancelar,
-.botonenviar {
-    display: inline-block;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #212529;
-    text-align: center;
-    text-decoration: none;
-    vertical-align: middle;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
-    background-color: transparent;
-    border: 1px solid transparent;
-    padding: .375rem 1rem;
-    font-size: 1rem;
-    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    -webkit-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    -moz-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    -ms-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    -o-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
-}
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,700;1,400;1,900&display=swap');
 
-.botoncancelar {
-    color: #fff;
-    background-color: #ff4949;
-    border-color: #ff4949;
-}
-
-.botonenviar {
-    color: #fff;
-    background-color: #05ac5e;
-    border-color: #05ac5e;
-}
-
-.botoncancelar:hover {
-    color: #fff;
-    background-color: #bb2d3b;
-    border-color: #b02a37;
-}
-
-.botonenviar:hover {
-    color: #fff;
-    background-color: #037e44;
-    border-color: #037e44;
-}
 
 input {
     display: block;
@@ -68,6 +22,69 @@ input {
     -moz-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
     -ms-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
     -o-transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+
+.botoncancelar,
+.botonenviar {
+	text-transform:uppercase !important;
+	 
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem 1rem;
+    font-size: 1rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    -webkit-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    -moz-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    -ms-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    -o-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    width:auto !important;
+    margin-bottom:0 !important;
+    border-radius:0!important;
+}
+
+.botoncancelar {
+    color: #fff;
+    background-color: #ff4949;
+    border-color: #ff4949;
+    
+}
+
+.botonenviar {
+    color: #fff;
+    background-color: #05ac5e;
+    border-color: #05ac5e;
+}
+
+.botoncancelar:hover {
+    color: #fff;
+    background-color: #bb2d3b;
+    border-color: #b02a37;
+}
+
+.botonenviar:hover {
+    color: #fff;
+    background-color: #037e44;
+    border-color: #037e44;
+}
+
+h1{
+	font-weight: 700;
+}
+*{
+	font-family: 'Lato', sans-serif;
 }
 
 #descripcion {

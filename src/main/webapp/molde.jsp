@@ -16,7 +16,7 @@
         <!-- Hay que cambiar el <title> en el <head> -->
         <!-- Hay que cambiar el interior del <h1> por el nombre de tu proyecto -->
         <!-- Hay que cambiar la descripción -->
-
+		<!-- Hay que cambiar el <h2> por tu nombre -->
 
 
         <div class="container my-5">
@@ -25,7 +25,9 @@
                     <main class="bg-light py-3 px-4 border rounded">
 
                         <h1>TÍTULO del proyecto...</h1>
+                        <h2 class="author fs-5 border-bottom d-inline">Alejandro Colmenero Moreno</h2>
                         <p id="descripcion">Aquí hay que poner una explicación de tu proyecto..</p>
+
 
                         <form action="" method="post">
 
@@ -36,7 +38,7 @@
 
                             <div class="d-flex justify-content-between">
                                 <button class="botonenviar">ENVIAR</button>
-                                <a href="./index_pycolmenero.jsp" class="botoncancelar">VOLVER</a>
+                                <a href="./" class="botoncancelar">VOLVER</a>
                             </div>
 
                         </form>
