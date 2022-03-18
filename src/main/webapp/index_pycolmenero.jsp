@@ -98,6 +98,21 @@
 							<td><a href="./toLowerCase_alivazgom.jsp">Minúsculas.</a></td>
 							<td>@alivazgom</td>
 						</tr>
+						<tr>
+							<td>12</td>
+							<td><a href="./IntercalarCadenas_AndresGil94.jsp">Intercalar 2 cadenas.</a></td>
+							<td>@AndresGil94</td>
+						</tr>
+						<tr>
+							<td>13</td>
+							<td><a href="./caracterRepetido_carleovaz.jsp">Detectar carácter repetido.</a></td>
+							<td>@carleovaz</td>
+						</tr>
+						<tr>
+							<td>14</td>
+							<td><a href="./Hopolapa_jotaulian.jsp">Hopolapa.</a></td>
+							<td>@jotaulian</td>
+						</tr>
 					</tbody>
 				</table>
 			</div>
