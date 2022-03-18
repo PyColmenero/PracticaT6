@@ -33,6 +33,7 @@
 
                             <div id="inputs" class="mb-4">
                                 <label> Introduzca una frase: </label>
+                                
                                 	<input class="form-control" type="text" name="inputText" />
 
                             </div>
