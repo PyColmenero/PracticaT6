@@ -57,7 +57,6 @@ public class contarConsonantes_adrismm extends HttpServlet
 				cont ++;
 			}
 		}
-		
 		request.setAttribute("frase", cont);
 		ServletContext servletContext = getServletContext();
 		RequestDispatcher requestDispatcher = servletContext.getRequestDispatcher("/contarConsonantes_adrismm.jsp"); 
