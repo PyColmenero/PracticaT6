@@ -113,6 +113,21 @@
 							<td><a href="./Hopolapa_jotaulian.jsp">Hopolapa.</a></td>
 							<td>@jotaulian</td>
 						</tr>
+						<tr>
+							<td>15</td>
+							<td><a href="./Iniciales_ivantriguero.jsp">Iniciales.</a></td>
+							<td>@ivantriguero</td>
+						</tr>
+						<tr>
+							<td>16</td>
+							<td><a href="./InvertirOrden_miguelvazquezmartin.jsp">Invertir orden.</a></td>
+							<td>@miguelvazquezmartin</td>
+						</tr>
+						<tr>
+							<td>17</td>
+							<td><a href="./contarConsonantes_adrismm.jsp">Contar consonantes.</a></td>
+							<td>@adrismm</td>
+						</tr>
 					</tbody>
 				</table>
 			</div>
