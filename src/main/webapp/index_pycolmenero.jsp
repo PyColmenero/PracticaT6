@@ -51,7 +51,7 @@
 						<tr>
 							<td>2</td>
 							<td><a href="./Mayusculas_FJvb85.jsp">Mayúsculas.</a></td>
-							<td>@FJvb85</td>
+							<td>@FranVB85</td>
 						</tr>
 						<tr>
 							<td>3</td>
@@ -124,9 +124,9 @@
 							<td>@miguelvazquezmartin</td>
 						</tr>
 						<tr>
-							<td>17</td>
-							<td><a href="./contarConsonantes_adrismm.jsp">Contar consonantes.</a></td>
-							<td>@adrismm</td>
+							<td>18</td>
+							<td><a href="./Sustituir_Alejandro23f.jsp">Sustituir vocales por 'a'.</a></td>
+							<td>@Alejandro23f</td>
 						</tr>
 					</tbody>
 				</table>
